@@ -13,7 +13,6 @@
   "author": "Pedro Nauck <pedronauck@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "micro": "^8.0.1",
     "url-pattern": "^1.0.3"
   },
   "devDependencies": {
@@ -21,6 +20,7 @@
     "babel-cli": "^6.24.1",
     "babel-plugin-transform-async-to-generator": "^6.24.1",
     "coveralls": "^2.11.16",
+    "micro": "^8.0.3",
     "nyc": "^10.1.2",
     "request": "^2.79.0",
     "request-promise": "^4.1.1",
